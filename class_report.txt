@@ -1,0 +1,8 @@
+CLASS RESULT REPORT
+===================
+1. Ugochukwu Nmesoma | Total: 451.0 | Average: 90.20 | Grade: A
+2. ADAEZE IFEOMA | Total: 0.0 | Average: 0.00 | Grade: F
+
+Highest average: 90.20
+Lowest average : 0.00
+Class average  : 45.10

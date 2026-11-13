@@ -1,0 +1,32 @@
+[
+    {
+        "sMatric_number": "24/SCI01/203",
+        "name": "Ugochukwu Nmesoma",
+        "student_class": "300",
+        "gender": "Female",
+        "dob": "2009-01-13",
+        "scores": {
+            "Maths": 99.0,
+            "English": 86.0,
+            "Science": 90.0,
+            "History": 98.0,
+            "Computer": 98.0
+        },
+        "date_entered": "2026-11-13 10:55"
+    },
+    {
+        "sMatric_number": "24/sci04/245",
+        "name": "ADAEZE IFEOMA",
+        "student_class": "300",
+        "gender": "Female",
+        "dob": "2007-04-04",
+        "scores": {
+            "Maths": 58.0,
+            "English": 98.0,
+            "Science": 58.0,
+            "History": 78.0,
+            "Computer": 79.0
+        },
+        "date_entered": "2026-11-13 11:03"
+    }
+]
